@@ -1,0 +1,17 @@
+p {
+    border-style: solid;
+    padding: 4mm;
+    border-width: 2px;
+    border-color: blue;
+    width: 20cm;
+}
+
+span {
+    border-style: solid;
+    padding: 5px;
+    margin: 10px;
+    border-color: orange;
+    border-radius: 10px;
+    background-color: orange;
+    float:left;  
+}
